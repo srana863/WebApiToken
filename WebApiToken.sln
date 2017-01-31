@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiToken", "WebApiToken\WebApiToken.csproj", "{B084557F-0BF2-415B-A881-0F067F27E8EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SinglePageApp", "SinglePageApp\SinglePageApp.csproj", "{5AFEE975-E8DE-40C4-8C31-AA7927A9BD26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B084557F-0BF2-415B-A881-0F067F27E8EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B084557F-0BF2-415B-A881-0F067F27E8EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B084557F-0BF2-415B-A881-0F067F27E8EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B084557F-0BF2-415B-A881-0F067F27E8EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AFEE975-E8DE-40C4-8C31-AA7927A9BD26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AFEE975-E8DE-40C4-8C31-AA7927A9BD26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AFEE975-E8DE-40C4-8C31-AA7927A9BD26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AFEE975-E8DE-40C4-8C31-AA7927A9BD26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
